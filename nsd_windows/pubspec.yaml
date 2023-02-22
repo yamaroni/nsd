@@ -3,6 +3,7 @@ description: Flutter network service discovery plugin (Windows submodule - will 
 version: 2.0.1
 repository: https://github.com/sebastianhaberey/nsd/tree/main/nsd_windows
 issue_tracker: https://github.com/sebastianhaberey/nsd/issues
+publish_to: none
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
