@@ -17,6 +17,16 @@ dependencies:
   nsd_android: ^1.2.2
   nsd_ios: ^1.0.3
   nsd_macos: ^1.0.3
+  nsd_platform_interface:
+    git:
+      url: https://github.com/yamaroni/nsd.git
+      path: nsd_platform_interface
+      ref: develop
+  nsd_windows:
+    git:
+      url: https://github.com/yamaroni/nsd.git
+      path: nsd_windows
+      ref: develop
 
 #  # development
 #  nsd_android:
