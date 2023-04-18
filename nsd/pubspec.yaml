@@ -19,7 +19,7 @@ dependencies:
   nsd_macos: ^1.0.3
   nsd_platform_interface:
     git:
-      url: https://github.com/adryanev/nsd.git
+      url: https://github.com/yamaroni/nsd.git
       path: nsd_platform_interface
       ref: develop
   nsd_windows:
